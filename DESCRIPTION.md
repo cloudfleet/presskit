@@ -18,6 +18,6 @@ Data Autonomy
 The mission of the company is stated through our
 [Data Autonomy manifesto](https://discourse.cloudfleet.io/t/the-data-autonomy-manifesto-first-draft-and-discussion/32?u=kermit)
 
-Embodying the principals of data autonomy, the users of the Blimp are assured
+Embodying the principles of data autonomy, the users of the Blimp are assured
 that they are in full control of the data "emissions" of their use of cloud
 services.
