@@ -27,8 +27,8 @@ of all your data that you can only access using your private encryption key
 A more technical description of the CloudFleet Blimp can be found on our
 [Technology documentation](http://cloudfleet.readthedocs.org/en/latest/doc/technology/technology.html).
 
-On 29.12.2015. at the Chaos Communication Congress in Hamburg, we have started
-an IndieGoGo crowdfunding campaign that lasts for 45 days (until 13.2.2015.).
+On 29.12.2015 at the Chaos Communication Congress in Hamburg, we have started
+an IndieGoGo crowdfunding campaign that lasts for 45 days (until 13.2.2015).
 
 [IndieGoGo campaign](https://www.indiegogo.com/projects/cloudfleet-your-private-encrypted-cloud-at-home/x/4096670#/)
 
