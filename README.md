@@ -17,7 +17,7 @@ source. We provide a paid CloudFleet services subscription to make the Blimp
 usage simple & secure. A subscription to these services supports CloudFleet
 development and provides the user:
 
-- custom domain registration and prolonging
+- custom domain registration and renewal
 - software upgrades & security patches
 - Pagekite public frontend for global access to your Blimp
 - zero-knowledge backups - automatic incremental encrypted backups
