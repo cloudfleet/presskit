@@ -6,10 +6,10 @@ your right to privacy! The team includes:
 
 - Christoph Witzany, Admiral of the Clouds - https://cloudfleet.io/blog/meet-our-team-christoph.html
 - Dražen Lučanin, Captain of the Data Blizzard - https://cloudfleet.io/blog/meet-our-team-drazen.html
-- Laura Gaetano, Community Commander - https://cloudfleet.io/blog/meet-our-team-laura.html
+- Laura, Community Commander - https://cloudfleet.io/blog/meet-our-team-laura.html
 - Mark Evenson, Commodore x40 - https://cloudfleet.io/blog/meet-our-team-mark.html
 - Ömer “Tim” Ayasli, Major Shred
-- Emile Harmel, Captain Chef De Partie - https://cloudfleet.io/blog/meet-our-team-emile.html
+- Emile, Captain Chef De Partie - https://cloudfleet.io/blog/meet-our-team-emile.html
 - Martin Povazay, Master of the Maps
 
 Data Autonomy
