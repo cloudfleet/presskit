@@ -1,7 +1,7 @@
 Logo
 ----
 
-![CloudFleet logo](cloudfleet.png)
+![CloudFleet logo](logo.png)
 
 CloudFleet Blimp
 ----------------

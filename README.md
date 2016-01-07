@@ -32,10 +32,10 @@ an IndieGoGo crowdfunding campaign that lasts for 45 days (until 13.2.2015.).
 
 [IndieGoGo campaign](https://www.indiegogo.com/projects/cloudfleet-your-private-encrypted-cloud-at-home/x/4096670#/)
 
-Further descriptions of the company can be found in
+Further descriptions of the company and our product can be found in
 [DESCRIPTION.md](DESCRIPTION.md).
 
-For the logo and photos see [images/README.md](images/README.md).
+For the logo and photos see the [images/](images/) folder.
 
 Our press mentions so far can be found in [MENTIONS.md](MENTIONS.md).
 
