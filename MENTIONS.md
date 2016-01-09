@@ -1,5 +1,6 @@
 # Press mentions
 
+- 9.1.2016 Resin.io guest blog post - https://resin.io/blog/home-automation-using-python-flask-celery/
 - 5.6.2015 Betapitch Vienna - http://www.betapitch.net/vienna/
 - 2.3.2015 i2c StartAcademy 2015 CONDA
 
