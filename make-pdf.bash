@@ -10,6 +10,6 @@ for file in *.md; do
 done
 
 tmp=all.md
-cat README.md DESCRIPTION.md MENTIONS.md > $tmp
+cat README.md DESCRIPTION.md MENTIONS.md media-resources.md > $tmp
 pandoc $tmp -o cloudfleet-presskit.pdf
 rm $tmp
