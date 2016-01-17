@@ -78,5 +78,6 @@ available on [ReadTheDocs](http://cloudfleet.readthedocs.org/en/latest/).
 Contact
 -------
 
-- Press enquiries: <press@cloudfleet.io>
-- Other: <admiralty@cloudfleet.io>
+- Press enquiries: <press@cloudfleet.io>  
+
+

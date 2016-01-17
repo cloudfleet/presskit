@@ -10,4 +10,6 @@
   * Article in Der Standard - http://derstandard.at/2000012109495/Pflegeroboter-und-weltweite-Streik-Sensoren-Wissenschaft-und-Wirtschaft-finden-zusammen
   * https://www.youtube.com/watch?v=dEzpXtMNTxI&feature=youtu.be
 
-- 12.6.2014 ComputerBase.de http://www.computerbase.de/2014-06/qabel-sichere-cloud-plattform-stellt-sich-vor/
+- 12.6.2014 ComputerBase.de http://www.computerbase.de/2014-06/qabel-sichere-cloud-plattform-stellt-sich-vor/  
+
+

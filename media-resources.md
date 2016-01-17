@@ -1,21 +1,14 @@
-Logo
-----
+Media Resources
+===============
 
 ![CloudFleet logo](images/logo.png)
 
-CloudFleet Blimp
-----------------
-
 ![CloudFleet Blimp](images/blimp.jpg)
 
-CloudFleet Blimp software
--------------------------
+![CloudFleet Blimp Software: cockpit](images/cockpit.png)
 
-![CloudFleet Blimp cockpit](images/cockpit.png)
+![CloudFleet Blimp Software: Mailpile](images/mailpile.png)
 
-![Mailpile](images/mailpile.png)
+![team](images/team.jpg)  
 
-Team photo
-----------
 
-![team](images/team.jpg)
