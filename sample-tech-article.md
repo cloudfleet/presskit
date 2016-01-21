@@ -16,7 +16,7 @@ experience. The CloudFleet Blimp retains the simplicity
 of traditional cloud services, while keeping your data encrypted and accessible
 only to you.
 
-[![The CloudFleet Blimp](images/blimp.jpg)](https://www.indiegogo.com/projects/cloudfleet-your-private-encrypted-cloud-at-home/x/4096670#/)
+[![The CloudFleet Blimp](images/blimp.png)](https://www.indiegogo.com/projects/cloudfleet-your-private-encrypted-cloud-at-home/x/4096670#/)
 
 The CloudFleet Blimp was first previewed at the Chaos Communication Congress in
 Hamburg last month. To support development and collect device preorders the team

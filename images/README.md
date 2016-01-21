@@ -6,7 +6,7 @@ Logo
 CloudFleet Blimp
 ----------------
 
-![CloudFleet Blimp](blimp.jpg)
+![CloudFleet Blimp](blimp.png)
 
 CloudFleet Blimp software
 -------------------------
