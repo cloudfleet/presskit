@@ -1,8 +1,6 @@
 CloudFleet
 ==========
 
-[download as zip](https://github.com/cloudfleet/presskit/archive/master.zip)
-
 We are a dedicated team of developers and designers based in Vienna, Austria.
 Our team is experienced in developing stable and secure applications with the
 user-friendly interfaces humans deserve in the 21st century. Our vision is to
